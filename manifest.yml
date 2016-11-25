@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Primera Prueba de concepto
+  host: Primera-Prueba-de-concepto
+  disk_quota: 1024M
